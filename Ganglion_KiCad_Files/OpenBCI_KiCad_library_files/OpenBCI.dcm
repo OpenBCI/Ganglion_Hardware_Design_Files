@@ -1,0 +1,170 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP 4066
+D Single Ananlog Switch
+K CMOS SWITCH
+F http://www.mouser.com/ds/2/302/74LVC1G66-839686.pdf
+$ENDCMP
+#
+$CMP 7400
+D Dual nand2
+K CMOS nand2
+$ENDCMP
+#
+$CMP 74HC00
+D Quad nand2
+K HCMOS nand2
+$ENDCMP
+#
+$CMP 74HC04
+D Hex Inverseur
+K HCMOS not inv
+$ENDCMP
+#
+$CMP 74HCT00
+D Quad nand2
+K HCTMOS nand2
+$ENDCMP
+#
+$CMP 74HCT04
+D Hex Inverseur
+K HCTMOS not inv
+$ENDCMP
+#
+$CMP 74LS14
+D Hex inverseur schmitt trigger
+K TTL not inv
+$ENDCMP
+#
+$CMP 74LS37
+D Quad Buffer nand2
+K TTL nand2 buffer
+$ENDCMP
+#
+$CMP 74LVC1G66
+D Quad Analog Switches
+K CMOS SWITCH
+$ENDCMP
+#
+$CMP 74LVC2G00
+D Quad nand2
+K TTL nand2
+$ENDCMP
+#
+$CMP AD5621
+D MCP3425A0T, Single Delta-Sigma 16bit Analog to Digital Converter, I2C Interface, SOT-23-6
+K Sigma-Delta ADC Converter 16bit I2C
+F http://ww1.microchip.com/downloads/en/DeviceDoc/22072b.pdf
+$ENDCMP
+#
+$CMP AD8614
+D AD8614, Op Amp in 5-pin package
+K op amp amplifier operational 
+$ENDCMP
+#
+$CMP ADA4075
+D Very low noise audio op amp
+F http://www.analog.com/static/imported-files/data_sheets/ADA4075-2.pdf
+$ENDCMP
+#
+$CMP CJS1200
+D Single Pole Double Throw (SPDT) switch
+F http://www.nidec-copal-electronics.com/e/catalog/switch/cjs.pdf
+$ENDCMP
+#
+$CMP Crystal
+D Two pin crystal
+K Quartz, Ceramic, Filter, Resonator
+$ENDCMP
+#
+$CMP DUAL_LED
+D DUAL RED BLUE LED
+K LED
+F http://www.mouser.com/ds/2/216/APHB1608QBDSURKC-23574.pdf
+$ENDCMP
+#
+$CMP LED
+K LED
+$ENDCMP
+#
+$CMP LM7332
+D High voltage dual rail to rail op-amp 30V
+K high voltage op amp rail dual
+F http://www.ti.com/lit/gpn/lm7332
+$ENDCMP
+#
+$CMP LP2985
+D MICROPOWER 150mA Regulator 
+K REGUL POWER  SOT-23-5
+F regulator/LP2985.pdf
+$ENDCMP
+#
+$CMP LTD-5623AG
+D 2 x 7 Segments common K.
+K 7 SEGMENTS
+F /Users/biomurph/Documents/KiCad/Docs/LTD-5623AG.pdf
+$ENDCMP
+#
+$CMP MCP3421A0T-E/CH
+D AD56x1 nanoDAC, SPI, 8,10, 12 bit, LFCSP and SC70
+K DAC
+F http://www.mouser.com/ds/2/609/AD5601_5611_5621-259248.pdf
+$ENDCMP
+#
+$CMP MCP3425A1T-E/CH
+D MCP3425A1T, Single Delta-Sigma 16bit Analog to Digital Converter, I2C Interface, SOT-23-6
+K Sigma-Delta ADC Converter 16bit I2C
+F http://ww1.microchip.com/downloads/en/DeviceDoc/22072b.pdf
+$ENDCMP
+#
+$CMP MCP3425A2T-E/CH
+D MCP3425A2T, Single Delta-Sigma 16bit Analog to Digital Converter, I2C Interface, SOT-23-6
+K Sigma-Delta ADC Converter 16bit I2C
+F http://ww1.microchip.com/downloads/en/DeviceDoc/22072b.pdf
+$ENDCMP
+#
+$CMP MCP3425A3T-E/CH
+D MCP3425A3T, Single Delta-Sigma 16bit Analog to Digital Converter, I2C Interface, SOT-23-6
+K Sigma-Delta ADC Converter 16bit I2C
+F http://ww1.microchip.com/downloads/en/DeviceDoc/22072b.pdf
+$ENDCMP
+#
+$CMP MCP6002
+D Dual general purpose rail-to-rail op amp
+K dual op amp rail 
+F http://www.mouser.com/ds/2/405/tlv2333-844704.pdf
+$ENDCMP
+#
+$CMP MCP6V31U
+D Op Amp in 5-pin package
+K op amp amplifier operational 
+F http://ww1.microchip.com/downloads/en/DeviceDoc/21733j.pdf
+$ENDCMP
+#
+$CMP SN74LVC1G32
+D Single OR Gate
+K TTL Or2
+$ENDCMP
+#
+$CMP SPDT
+D Single Pole Double Throw (SPDT) switch
+$ENDCMP
+#
+$CMP TACT_SWITCH
+D Button
+K Switch Tact
+F http://www.mouser.com/ds/2/60/PTS810_4mar13-248115.pdf
+$ENDCMP
+#
+$CMP TLV2333
+D Dual Op amp (low power)
+K ampliop
+F analog-dev/op275.pdf
+$ENDCMP
+#
+$CMP Xtal
+D Two pin crystal
+K Quartz, Ceramic, Filter, Resonator
+$ENDCMP
+#
+#End Doc Library
