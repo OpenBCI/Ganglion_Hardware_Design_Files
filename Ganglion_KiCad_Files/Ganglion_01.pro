@@ -1,4 +1,4 @@
-update=Wednesday, October 05, 2016 'PMt' 11:36:45 PM
+update=Wednesday, October 19, 2016 'PMt' 12:09:40 PM
 version=1
 last_client=kicad
 [cvpcb]
@@ -53,7 +53,7 @@ LabSize=60
 [pcbnew]
 version=1
 PageLayoutDescrFile=
-LastNetListRead=Ganglion_03.net
+LastNetListRead=Ganglion_01.net
 PadDrill=0
 PadDrillOvalY=0
 PadSizeH=1.2
