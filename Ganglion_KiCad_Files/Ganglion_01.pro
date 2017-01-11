@@ -1,4 +1,4 @@
-update=Wednesday, October 19, 2016 'PMt' 12:09:40 PM
+update=Tuesday, January 10, 2017 'PMt' 03:26:18 PM
 version=1
 last_client=kicad
 [cvpcb]
@@ -40,16 +40,6 @@ LibName29=valves
 LibName30=/Users/biomurph/Documents/KiCad/library/OpenBCI
 [general]
 version=1
-[schematic_editor]
-version=1
-PageLayoutDescrFile=
-PlotDirectoryName=
-SubpartIdSeparator=0
-SubpartFirstId=65
-NetFmtName=
-SpiceForceRefPrefix=0
-SpiceUseNetNumbers=0
-LabSize=60
 [pcbnew]
 version=1
 PageLayoutDescrFile=
@@ -69,3 +59,13 @@ SolderMaskMinWidth=0
 DrawSegmentWidth=0.2
 BoardOutlineThickness=0.15
 ModuleOutlineThickness=0.15
+[schematic_editor]
+version=1
+PageLayoutDescrFile=
+PlotDirectoryName=
+SubpartIdSeparator=0
+SubpartFirstId=65
+NetFmtName=
+SpiceForceRefPrefix=0
+SpiceUseNetNumbers=0
+LabSize=60
