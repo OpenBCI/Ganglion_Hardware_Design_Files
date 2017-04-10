@@ -7,4 +7,4 @@ http://kicad-pcb.org/
 Disclaimer:
 
 These files are presented AS IS, with no representation of warranty or functionality.
-Designs are subject to chage without notice.
+Designs are subject to change without notice.
