@@ -6,7 +6,7 @@ version=1
 NetIExt=net
 [eeschema]
 version=1
-LibDir=/Users/biomurph/Documents/KiCad/library
+LibDir=./OpenBCI_KiCad_library_files
 [eeschema/libraries]
 LibName1=power
 LibName2=device
@@ -37,7 +37,7 @@ LibName26=opto
 LibName27=atmel
 LibName28=contrib
 LibName29=valves
-LibName30=/Users/biomurph/Documents/KiCad/library/OpenBCI
+LibName30=OpenBCI
 [general]
 version=1
 [pcbnew]
